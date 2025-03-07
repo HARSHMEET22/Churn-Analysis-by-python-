@@ -14,7 +14,7 @@ This analysis examines telecom customer data, focusing on service usage, contrac
 - Demographic Insights: A higher percentage of senior citizens have churned compared to younger customers.
 - Tenure Analysis: Customers with long-term usage are more likely to stay, while those using the service for just 1–2 months are more likely to leave.
 - Contract Type: Month-to-month contract holders exhibit the highest churn rate compared to customers with one- or two-year contracts.
-## Service Influence:
+### Service Influence:
 - Fiber optic users experience a higher churn rate compared to DSL users.
 - Customers who subscribed to security, backup, and tech support services have lower churn rates.
 - Customers without internet services show the lowest churn rate.
