@@ -18,3 +18,25 @@ Service Influence:
 - Fiber optic users experience a higher churn rate compared to DSL users.
 - Customers who subscribed to security, backup, and tech support services have lower churn rates.
 - Customers without internet services show the lowest churn rate.
+
+3) Visualizations:
+- Count plots and pie charts were used to depict churn distribution across different customer segments.
+- Comparative bar charts highlighted trends across payment methods and service usage.
+- Boxplots examined total charges and tenure in relation to churn behavior.
+
+# Summary of Key Findings
+- Churn Rate: 26.54% of customers have left the service.
+- Senior Citizens: Higher churn rate compared to younger demographics.
+- Tenure & Retention: Customers using services for a longer period tend to stay, while early adopters within the first few months are at high risk of leaving.
+- Contract Type Impact: Month-to-month contracts have significantly higher churn rates compared to annual or biennial contracts.
+Service Influence:
+- Fiber optic users experience higher churn.
+- Customers without internet services have the lowest churn rate.
+- Customers with additional security, backup, and tech support services are more likely to stay.
+
+# Outcome & Recommendations
+- Improve Retention for New Customers: Implement loyalty programs or introductory offers to reduce early churn.
+- Targeted Engagement for Senior Citizens: Develop personalized plans or offers tailored to older customers.
+- Promote Long-Term Contracts: Encourage customers to opt for one- or two-year contracts by offering discounts.
+- Service Bundling Strategy: Recommend security, backup, and tech support services to customers to improve retention.
+- Optimize Internet Services: Investigate fiber optic service issues and explore ways to enhance customer experience.
